@@ -1,6 +1,9 @@
 # FinTech Customer Analytics & Risk Analysis
+## 📂 Project Files
 
-Project link: https://narayanafoundation-my.sharepoint.com/:f:/g/personal/khushi_pgdmds25_nbs_edu_in/IgC7ltmm1yJ7R4EqPiqyeaU4AZmzT3qE_U6rZnK0dS-Ga_8?e=45S7PY
+Access the complete project files, dataset, and dashboards here:
+
+[**View Project Files on SharePoint**](https://narayanafoundation-my.sharepoint.com/:f:/g/personal/khushi_pgdmds25_nbs_edu_in/IgC7ltmm1yJ7R4EqPiqyeaU4AZmzT3qE_U6rZnK0dS-Ga_8?e=45S7PY)
 
 ## 📌 Project Overview
 
