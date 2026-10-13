@@ -133,11 +133,6 @@ These are potential analytical questions, not confirmed findings. Actual conclus
 ## 🛠️ Tools and Technologies
 
 - **Microsoft Excel:** Data inspection, preparation, and exploratory analysis.
-- **Tableau:** Interactive dashboards and business visualizations.
-- **Microsoft Power BI:** KPI reporting and interactive dashboard development.
-- **Python:** Data cleaning, exploratory data analysis, and statistical analysis.
-- **Pandas and NumPy:** Data manipulation and numerical operations.
-- **Matplotlib and Seaborn:** Data visualization.
 
 ## 🚀 How to Use the Dataset
 
